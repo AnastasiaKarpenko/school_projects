@@ -57,3 +57,29 @@ Group project, University of Trento (2016, Spring semester)
 Study project in team of 2 people about requirements engineering for online platform for organizing surfing holidays. We gathered, elicited, specified and modelled the requirements for the future web-platform.
 
 In this project I learned: Requirements elicitation | Requirements specification | Modelling tools | UML
+
+
+
+
+
+# SurfEasy - an online platform for surfers | Requerements Specification Document
+[report](https://github.com/AnastasiaKarpenko/school_projects/blob/master/SurfEasy_Requirements_report.pdf)
+
+Group project, University of Trento (2016, Spring semester)
+
+Study project in team of 2 people about requirements engineering for online platform for organizing surfing holidays. We gathered, elicited, specified and modelled the requirements for the future web-platform.
+
+In this project I learned: Requirements elicitation | Requirements specification | Modelling tools | UML
+
+
+
+
+
+# DigiPen - magic tangible interaction 
+[report](https://github.com/AnastasiaKarpenko/school_projects/)
+
+Group project, University of Trento (2015, Fall semester)
+
+A study project, where the task was to create a new tangible interaction product prototype around education topic. Our team came up with a concept of DigiPen, which is a pen that can change its features based on user interactions.
+
+In this project I learned: UX design principles | User research | Tangible interaction design | Paper Prototyping
