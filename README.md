@@ -12,7 +12,7 @@ In this project I learned: Material design | Android design guidelines| Balsamiq
 
 
 
-# POLIS 4.0 - service design for Finnish Polis during Accenture Public Service Hackathon 
+# POLIS 4.0 - service design for Finnish Police during Accenture Public Service Hackathon 
 [report](https://github.com/AnastasiaKarpenko/school_projects/blob/master/Police4.0_report.pdf)
 
 Group project, Aalto University (2016, fall semester)
