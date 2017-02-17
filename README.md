@@ -1,5 +1,5 @@
-# School Projects
-Reports of service design and software engineering projects. 
+# Service Design and Software Engineering School Projects
+Reports of service design and software engineering projects during EIT Digital Masterschool (University of Trento and  Aalto University, 2015-2017)
 
 # Mobile Foreman - mobile UI design 
 [report](https://github.com/AnastasiaKarpenko/school_projects/blob/master/Mobile_Foreman_UI_design_Report.pdf)
