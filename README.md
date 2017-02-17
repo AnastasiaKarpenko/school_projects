@@ -1,6 +1,12 @@
 # Service Design and Software Engineering School Projects
 Reports of service design and software engineering projects during EIT Digital Masterschool (University of Trento and  Aalto University, 2015-2017)
 
+
+
+
+
+
+
 # Mobile Foreman - mobile UI design 
 [report](https://github.com/AnastasiaKarpenko/school_projects/blob/master/Mobile_Foreman_UI_design_Report.pdf)
 
@@ -14,7 +20,6 @@ In this project I learned: Material design | Android design guidelines| Balsamiq
 
 # POLIS 4.0 - service design for Finnish Police during Accenture Public Service Hackathon 
 [report](https://github.com/AnastasiaKarpenko/school_projects/blob/master/Police4.0_report.pdf)
-
 Group project, Aalto University (2016, fall semester)
 
 Design of digital service for Poliisi (The National Police Board of Finland) where citizens can share low level safety concerns with the Police directly. Solution includes redesign of 112 Suomi app and net tips form on the Poliisi web-site.
@@ -62,14 +67,14 @@ In this project I learned: Requirements elicitation | Requirements specification
 
 
 
-# SurfEasy - an online platform for surfers | Requerements Specification Document
-[report](https://github.com/AnastasiaKarpenko/school_projects/blob/master/SurfEasy_Requirements_report.pdf)
+# TravelEx - design of digital platform for travellers
+[report](https://github.com/AnastasiaKarpenko/school_projects/)
 
 Group project, University of Trento (2016, Spring semester)
 
-Study project in team of 2 people about requirements engineering for online platform for organizing surfing holidays. We gathered, elicited, specified and modelled the requirements for the future web-platform.
+Business development in 3 month using LEAN startup methodology. Web-service for travellers that helps to buy product in another country and to have it shipped by a traveller.
 
-In this project I learned: Requirements elicitation | Requirements specification | Modelling tools | UML
+In this project I learned: User research | Service design | LEAN startup methodology
 
 
 
