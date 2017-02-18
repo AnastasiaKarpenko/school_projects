@@ -20,6 +20,7 @@ In this project I learned: Material design | Android design guidelines| Balsamiq
 
 # POLICE 4.0 - service design for Finnish Police during Accenture Public Service Hackathon 
 [report](https://github.com/AnastasiaKarpenko/school_projects/blob/master/Police4.0_report.pdf)
+
 Group project, Aalto University (2016, fall semester)
 
 Design of digital service for Poliisi (The National Police Board of Finland) where citizens can share low level safety concerns with the Police directly. Solution includes redesign of 112 Suomi app and net tips form on the Poliisi web-site.
