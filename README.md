@@ -54,7 +54,7 @@ In this project I learned: Digital Health research | User research | Service des
 
 
 
-# SurfEasy - an online platform for surfers | Requerements Specification Document
+# SurfEasy - an online platform for surfers | Requirements Specification Document
 [report](https://github.com/AnastasiaKarpenko/school_projects/blob/master/SurfEasy_Requirements_report.pdf)
 
 Group project, University of Trento (2016, Spring semester)
